@@ -1,4 +1,4 @@
-Twitch+: A Personalized Twitch Resources Recommendation Engine
+# Twitch+: A Personalized Twitch Resources Recommendation Engine
 
 - Designed and built a full-stack web application for users to search twitch resources(stream/video/clip) and get recommendations
 - Built a web page with rich user friendly experience using React and Ant Design
